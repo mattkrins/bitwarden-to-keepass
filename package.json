@@ -1,0 +1,12 @@
+{
+  "name": "bitwarden-to-keepass",
+  "author": "mattkrins",
+  "version": "1.0.0",
+  "description": "Export bitwarden/vaultwarden to kdbx file.",
+  "scripts": {
+    "build": "docker build -t mattkrins/bitwarden-to-keepass:latest .",
+    "save": "docker image save bitwarden-to-keepass -o bitwarden-to-keepass.tar",
+    "push": "docker push mattkrins/bitwarden-to-keepass:latest"
+  },
+  "license": "GNU GPLv3"
+}
