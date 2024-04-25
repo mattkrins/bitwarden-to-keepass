@@ -5,7 +5,7 @@ Folder structure is replicated.\
 As bitwarden supports multiple URLs and keepass/keepassxc does not, URL 1 is used.\
 Notes are added and appended to the note is a JSON string containing the rest of the entry.
 
-Uses [@bitwarden/cli](https://bitwarden.com/help/cli/) to export the vault and [keepassxc](https://github.com/keepassxreboot/keepassxc/blob/develop/docs/man/keepassxc-cli.1.adoc) to generate the kbbx file.
+Uses [@bitwarden/cli](https://bitwarden.com/help/cli/) to export the vault and [keepassxc](https://github.com/keepassxreboot/keepassxc/blob/develop/docs/man/keepassxc-cli.1.adoc) to generate the kdbx file.
 
 ## Environment variables
 - KP_PATH="/export/vault.kdbx"\
