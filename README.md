@@ -1,4 +1,7 @@
 # bitwarden-to-keepass
+[![Static Badge](https://img.shields.io/badge/docker-docker?style=social&logo=docker)](https://hub.docker.com/r/mattkrins/bitwarden-to-keepass)
+![GitHub License](https://img.shields.io/github/license/mattkrins/bitwarden-to-keepass)
+
 Export your [bitwarden](https://bitwarden.com/) or [vaultwarden](https://github.com/dani-garcia/vaultwarden) credentials vault to a [KeePass](https://keepass.info/) kdbx file.
 
 Folder structure is replicated.\
