@@ -1,8 +1,12 @@
+
+![logo](https://github.com/mattkrins/bitwarden-to-keepass/assets/2367602/39dfad90-30e3-4dab-b3d0-9c65b3d07c4e)
+
 # bitwarden-to-keepass
 [![Static Badge](https://img.shields.io/badge/docker-docker?style=social&logo=docker)](https://hub.docker.com/r/mattkrins/bitwarden-to-keepass)
 ![GitHub License](https://img.shields.io/github/license/mattkrins/bitwarden-to-keepass)
 
 Export your [bitwarden](https://bitwarden.com/) or [vaultwarden](https://github.com/dani-garcia/vaultwarden) credentials vault to a [KeePass](https://keepass.info/) kdbx file.
+
 
 Folder structure is replicated.\
 As bitwarden supports multiple URLs and keepass/keepassxc does not, URL 1 is used.\
